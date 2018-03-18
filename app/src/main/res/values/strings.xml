@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="permission_hint">如果拒绝该权限，将不能正常使用app</string>
+</resources>
